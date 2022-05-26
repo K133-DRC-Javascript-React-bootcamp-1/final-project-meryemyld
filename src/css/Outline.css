@@ -1,0 +1,110 @@
+h5 {
+    width: 100%; 
+    text-align: center; 
+    border-bottom: 1px solid rgb(143, 140, 140); 
+    line-height: 0.1em;
+    margin: 10px 0 20px; 
+    font-family: 'Fredoka', sans-serif;
+    color: rgb(117, 116, 116);
+    font-weight: lighter;
+    font-size: 17px;
+   
+ } 
+ 
+ h5 span { 
+     background:#fff; 
+     padding:0 10px; 
+     font-weight: lighter;
+ }
+
+ #brand_name{
+    z-index: 1;
+    margin-left: -92px;
+    font-size: 23px;
+    font-family: 'Fredoka', sans-serif;
+    font-weight:100;
+}
+
+#brand_img{
+    z-index: 0;
+    margin-left: -30px;
+    width: 120px;
+    
+}
+
+
+.cards-text{
+   
+   
+    font-size: 15px;
+    margin: 0px;
+    color: rgb(117, 116, 116);
+    font-weight: lighter;
+    font-family: 'Fredoka', sans-serif;
+}
+
+#yellow{
+    background-color: #eed9d2;
+    
+}
+
+
+li{
+    list-style-type: none;
+    
+}
+
+#bottom-text a{
+    color: rgb(70, 70, 70);
+    text-decoration: none;
+    font-weight: lighter;
+    font-family: 'Fredoka', sans-serif;
+    
+  }
+  
+  #bottom-text span{
+    color: rgb(70, 70, 70);
+    font-weight: lighter;
+    font-family: 'Fredoka', sans-serif;
+  }
+  
+  #bottom-text li{
+    color: rgb(70, 70, 70);
+    font-weight: lighter;
+    font-family: 'Fredoka', sans-serif;
+  }
+  
+  
+  #form_text{
+    font-family: 'Fredoka', sans-serif;
+    font-size: 14px;
+  }
+  
+  #payment li{
+    list-style-type:circle;
+  }
+
+
+  .link{
+   text-decoration: 'none'; 
+   color:"black" 
+  }
+
+  .cards{
+    width: 270px;
+    margin: 20px;
+    padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(86, 86, 86, 0.2), 0 6px 20px 0 rgba(86, 86, 86, 0.2);
+  }
+
+
+  #login_div{
+    width:700px
+  }
+
+  .but{
+    background-color:transparent;
+    padding:0px;
+    margin: 0px;
+    border: transparent;
+  }

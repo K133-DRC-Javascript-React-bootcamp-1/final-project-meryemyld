@@ -1,0 +1,21 @@
+[
+
+    { "id":1, "name": "Demeter Dress", "price":220, "barcode":"0001", "src1":"photo/14.1.jpg", "src2":"photo/14.2.jpg" },
+    { "id":2, "name": "Gaia Dress", "price":300, "barcode":"0002", "src1":"photo/6.1.jpg", "src2":"photo/6.2.jpg" },
+    { "id":3, "name": "Artemis Dress", "price":240, "barcode":"0003", "src1":"photo/13.1.jpg", "src2":"photo/13.2.jpg" },
+    { "id":4, "name": "Athena Dress", "price":180, "barcode":"0004", "src1":"photo/11.1.jpg", "src2":"photo/11.2.jpg" },
+    { "id":5, "name": "Metis Dress", "price":210, "barcode":"0005", "src1":"photo/16.1.jpg", "src2":"photo/16.2.jpg" },
+    { "id":6, "name": "Persephone Dress", "price":196, "barcode":"0006", "src1":"photo/10.1.jpg", "src2":"photo/10.2.jpg" },
+    { "id":7, "name": "Harmonia Dress", "price":230, "barcode":"0007", "src1":"photo/18.1.jpg", "src2":"photo/18.2.jpg" },
+    { "id":8, "name": "Selene Dress", "price":250, "barcode":"0008", "src1":"photo/15.1.jpg", "src2":"photo/15.2.jpg" },
+    { "id":9, "name": "Thalia Dress", "price":250, "barcode":"0009", "src1":"photo/8.1.jpg", "src2":"photo/8.2.jpg" },
+    { "id":10, "name": "Themis Dress", "price":270, "barcode":"0010", "src1":"photo/17.1.jpg", "src2":"photo/17.2.jpg" },
+    { "id":11, "name": "Nemesis Dress", "price":220, "barcode":"0011", "src1":"photo/5.1.jpg", "src2":"photo/5.2.jpg" },
+    { "id":12, "name": "Keres Dress", "price":190, "barcode":"0012", "src1":"photo/19.1.jpg", "src2":"photo/19.2.jpg" },
+    { "id":13, "name": "Hestia Dress", "price":230, "barcode":"0013", "src1":"photo/20.1.jpg", "src2":"photo/20.2.jpg" },
+    { "id":14, "name": "Maia Dress", "price":170, "barcode":"0014", "src1":"photo/1.1.jpg", "src2":"photo/1.2.jpg" },
+    { "id":15, "name": "Doris Dress", "price":160, "barcode":"0015", "src1":"photo/4.1.jpg", "src2":"photo/4.2.jpg" },
+    { "id":16, "name": "Rhea Dress", "price":250, "barcode":"0016", "src1":"photo/3.1.jpg", "src2":"photo/3.2.jpg" }
+
+
+]
